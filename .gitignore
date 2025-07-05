@@ -1,0 +1,11 @@
+# Ignorar archivos de entorno
+.env
+
+# Ignorar archivos de configuración de entorno de desarrollo
+.env.*
+
+# Otros archivos comunes a ignorar
+node_modules/
+vendor/
+.DS_Store
+Thumbs.db
